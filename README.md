@@ -1,7 +1,7 @@
 # Simple Metroid Prime Guide
 
 * Neatly organised
-* Lines to show give players good direction
+* Lines to give players good direction
 * Not a lot of words
 
 I suck at Metroid so this is a guide based on a bunch of notes while I was playing.
